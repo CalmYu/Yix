@@ -31,8 +31,8 @@ android {
     }
 }
 
-//apply plugin: 'hotfix.patch-maker'
-//HotFix {
+//apply plugin: 'patch-maker'
+//Yix {
 //    fixClasses = ['yu.rainash.yix.app.TextJava', 'yu.rainash.yix.app.TextNative']
 //    fixSos = ['libhello.so']
 //    outputFileName = 'patch.apk'
